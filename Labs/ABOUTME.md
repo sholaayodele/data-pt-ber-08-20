@@ -4,5 +4,5 @@
 ##Fitness is an important part of my life##
 **Generousity is a big part of my life**
 I love sunny days.
-Today is a great day
+I love summer days.
 
