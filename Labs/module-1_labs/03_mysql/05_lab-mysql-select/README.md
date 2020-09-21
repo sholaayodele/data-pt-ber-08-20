@@ -8,6 +8,18 @@ In this lab you will practice how to use the MySQL `SELECT` statement which will
 
 You will create a `solutions.sql` file in the `your-code` directory to record your solutions to all challenges.
 
+
+## Challenge 0
+
+In this challenge we will practice joining the different tables of the publications database.
+
+a) Create a table which for each author contains their author id, first name, last name, and the total number of titles they have written according to the titleauthor table. Give each variable an alias, such that the table output is easy to read and interpret.
+
+Are there any authors in the author table, that do not have any publications in the titleauthor table?
+
+b) Create a table which for each job description contains the first hire date (i.e. the first employee with this job id was hired). Again, name the columns properly to have a nice return table. Sort the results from the job description with the first hire to the one with the last hire.
+
+
 ## Challenge 1 - Who Have Published What At Where?
 
 In this challenge you will write a MySQL `SELECT` query that joins various tables to figure out what titles each author has published at which publishers. Your output should have at least the following columns:
